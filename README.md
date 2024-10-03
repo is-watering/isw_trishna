@@ -9,3 +9,4 @@ ISW-TRISHNA is an integrated keyboard with a radial key arrangement.
 * [is-watering/isw-kbd-lib](https://github.com/is-watering/isw-kbd-lib)
 * [Salicylic-acid3/KiCAD_FootPrint](https://github.com/Salicylic-acid3/KiCAD_FootPrint)
 * [koktoh/BrownSugar_KBD_KiCad_Library](https://github.com/koktoh/BrownSugar_KBD_KiCad_Library)
+* [Taro-Hayashi/THQWGD001](https://github.com/Taro-Hayashi/THQWGD001)
