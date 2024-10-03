@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "isw-trishna")(type "KiCad")(uri "D:/MyData/Documents/MyRoom/キーボード/keyboards/is-watering/isw-trishna/hardware/pcb/lib/isw-trishna.pretty")(options "")(descr ""))
+)
